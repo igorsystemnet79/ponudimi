@@ -1,0 +1,2 @@
+# PonudiMi
+Kupoprodajna platforma
